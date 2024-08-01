@@ -1,0 +1,170 @@
+Contact: 7349632536
+
+Email:ah27101993@gmail.com Bangalore
+
+PROFILE SUMMARY
+
+ABHAY R HEGDE
+
+A competent professional with over 5 years of experience in
+
+Application Development, System Integration, Designing,
+
+Development, Deployment, Testing and Maintenance and Project
+
+Management
+
+The wealth of expertise entails Nodejs,Reactjs,Angular,C++,C,
+
+Java, HTML, CSS, JavaScript, SQL and BootStrap
+
+Expertly coordinated with multiple internal and onsite team and
+
+looking into IT product designing, resource management,
+
+implementation of SDLC
+
+Extensive experience overseeing the development, implementation
+
+and management of information technology systems that improve
+
+accessibility and resolve networking issues
+
+Ability to exercise good judgment in determining work and problem
+
+resolution priorities and approaches; works beyond the routine
+
+utilizing specialized knowledge and analysis of multiple variables
+
+In-depth knowledge of server architecture, confident project
+
+leadership and familiarity with a range of technological applications
+
+Excellent knowledge management of internal portal having all
+
+relevant documents on products, implementations, and various tips,
+
+etc., which are widely used for each implementation
+
+An effective communicator with strong people management,
+
+presentation and analytical skill
+
+KEY SKILLS
+
+Node.js
+
+CSS
+
+REST API’s
+
+React.js
+
+SQL
+
+AWS
+
+Javascript
+
+C++
+
+Kubernetes
+
+Angular
+
+MongoDB
+
+Microservices
+
+WORK EXPERIENCE
+
+Total Exp = 5 years
+
+May 22 - Present | Capgemini as Consultant
+
+Key Responsiblities:(tech stack -
+
+node.js,Angular, react
+
+js,sql,MongoDB,AWS,Kubernetes)
+
+Working on implementation of end to end web app for client for
+
+soft skills training using the above tech stack
+
+Feb 19-May 22 | Cerner Healthcare ,Bangalore as Software Engineer
+
+II(PSE II)
+
+Key Responsiblities:(tech stack -
+
+node.js,Angular, react js,sql,MongoDB)
+
+Working with stakeholders and solving problems related to
+
+application across domains
+
+Provide quick code fixes to resolve the issue.
+
+UI for hospital management solutions for doctors and medical
+
+practioners.
+
+Gather requirement and translate them into functional modules
+
+Development of frontend and backend functionalities.
+
+Participate in weekly code reviews with developers.
+
+Write clean code, drive technical design, and take responsibility for
+
+technical delivery.
+
+Creating and executing unit tests and performing basic application
+
+testing.
+
+Apr’17 – May’18 |Ranstad India Pvt. Ltd.,
+
+(Deputed to Oracle India Pvt. Ltd.),
+
+Bangalore as Software Application
+
+Developer Key Responsibilities:(tech stack
+
+–sql,java,c++,angular, ,javascript)
+
+Administered the design, development, testing, troubleshootingand
+
+debuggingof the software; requirementgathering
+
+from the client side
+
+Carried out the system study and coordinating with team members
+
+for product documentation, system design & integration, coding,
+
+application maintenance, etc.
+
+Implementing solutions that effectively resolve problems or
+
+provideimprovement
+
+Acting as IT subject matter expert for mobile technologies &
+
+application integration solution
+
+June’18-Dec 18|Freelance Developer
+
+Key Responsibilities:( tech stack –sql,node.js ,c+
+
++,angular,html,javascript)
+
+Worked with clients in building two mobile application.
+
+Creating frontend and backend Functionalities
+
+EDUCATION
+
+BE Computer Science KLS VDIT Haliyal
+

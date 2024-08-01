@@ -1,0 +1,532 @@
+ 
+
+ 
+
+Abhishek Singhal 
+
+Contact No.: +919756493161 
+
+Email: abhisinghal97@gmail.com 
+
+Current Location: Gurgaon, India 
+
+ 
+
+ 
+
+SUMMARY 
+
+ 
+
+ 
+
+Information Technology professional with strong experience of more than 5+ years in Software Development. 
+
+Work experiences in Front End, Web Development, and database management, have detailed technical knowledge and hands- 
+
+on experience of Build Engineering, Configuration Management, and Automation from a development background. 
+
+ 
+
+Extensive experience in the design and implementation of Continuous Integration, Continuous Delivery, Continuous 
+
+Deployment for Agile projects. 
+
+ 
+
+Automating and improving manual processes with a range of technologies, techniques and platforms including Sales Force, 
+
+Rally, WINSCP, Putty, Git, Oracle, UNIX/Linux, New Relic across the Information and Technology Sectors. 
+
+ 
+
+ 
+
+KEY SKILLS & EXPERIENCE 
+
+ 
+
+ 
+
+Languages 
+
+Angular6,7,8,12 HTML5, CSS, Bootstrap, JavaScript, Node JS, PHP, 
+
+WordPress, basics of C/C++, Java. 
+
+Version Control 
+
+Azure devops, Git 
+
+Monitoring Tools 
+
+New Relic, Sales Force, Rally. 
+
+App/Web Servers 
+
+Tomcat, Apache. 
+
+Databases 
+
+MySQL, PostgreSQL, MongoDB, Oracle 
+
+Platforms 
+
+Deployment tools 
+
+Database tool 
+
+Linux and UNIX, Android, Windows 
+
+WINSCP, Putty 
+
+SQL Management Studio 
+
+• Designing and implementing Continuous Integration, Continuous Delivery and Continuous Deployment pipelines for a 
+
+range of projects and environments including Middleware, Database, Front End and Android 
+
+ 
+
+ 
+
+CAREER PROFILE 
+
+ 
+
+CitiusTech Healthcare Technology Pvt. Ltd 
+
+Duration: Jan 2022 – Till Date 
+
+CitiusTech is a specialized provider of healthcare technology and business process services to healthcare technology 
+
+companies, healthcare providers, managed care organizations, health plans, and disease management companies. 
+
+Working with CitiusTech as a Sr. Software Developer – During my tenure at CitiusTech, below are the projects that I 
+
+have worked on. 
+
+ 
+
+➔ Project Title: Caritas  
+
+Client Worked/ Business: IBC 
+
+Role: Developer 
+
+Project Duration: Nov 2022 – Till now 
+
+Project Description: Caritas is a mobile based application and a one stop platform for a patient containing all medical 
+
+solutions. 
+
+Responsibilities: 
+
+• 
+
+Gathered the requirements of the project through various meetings. 
+
+• 
+
+Developed new functionality as required also fixing the existing bugs. 
+
+ 
+
+ 
+
+• 
+
+Handle dynamic data from the services. 
+
+• 
+
+Generate APK & IPA files for the deployments. 
+
+ 
+
+➔ Project Title: Dedalus- Personas 
+
+Client Worked/ Business: Dedalus 
+
+Role: Developer 
+
+Project Duration: April 2022 – Nov 2022 
+
+Project Description: Dedalus-Personas is a hospital management system which manages the information related to 
+
+health care and aids in the job completion of health care providers effectively. It provides the ability to manage all 
+
+the paperwork in one place, reducing the work of staff in arranging and analyzing the paperwork of the patients. 
+
+Responsibilities: 
+
+• 
+
+Gathered the requirements of the project through various meetings. 
+
+• 
+
+Developed new functionality as required also fixing the existing bugs. 
+
+• 
+
+Handle dynamic data from the services. 
+
+• 
+
+Perform Unit testing with karma & Jasmine. 
+
+ 
+
+➔ Project Title: HIIMS 
+
+Client Worked/ Business: General Electric 
+
+Role: Developer 
+
+Project Duration: Jan 2022 – Till now 
+
+Project Description: HIIMS Portal is designed for Health Care Patients and doctors to track their health activities and 
+
+to find their health-related and medical information. Using HIIMS Portal, Patients can also schedule appointment with 
+
+their respective Doctor/Surgeon. 
+
+ 
+
+Responsibilities: 
+
+• 
+
+Gathered the requirements of the project through various meetings. 
+
+• 
+
+Created estimations, Component List, Query Tracking sheet & UAT and deployment plan for task received, 
+
+and schedule plan to complete task on time and defect free. 
+
+• 
+
+Performed Peer Review/Testing on Team Member’s Tasks. 
+
+• 
+
+Demo Calls with the clients. 
+
+• 
+
+Encouraged and facilitated knowledge building within the team. 
+
+ 
+
+Capgemini India Pvt. Ltd. 
+
+Duration: June 2018 – Jan 2022 
+
+Capgemini SE is a French multinational information technology (IT) services and consulting company. It is headquartered 
+
+in Paris, France. 
+
+Worked with Capgemini for 3 years and 8 months as an Sr. Software Engineer. During my tenure at Capgemini, I have 
+
+worked on multiple projects and products below are the projects that I have worked on. 
+
+ 
+
+➔ Project Title: Bic-Graphic 
+
+Client Worked/ Business: ERP 
+
+Role: Developer 
+
+Project Duration: March 2020 – Dec 2022 
+
+Project Description: BIC Graphic USA Manufacturing Company, Inc. manufactures and sells custom imprinted 
+
+products for the promotional products industry. The Company offers writing instruments, lighters, sticky notes, 
+
+magnets, mouse pads, notebooks, padfolios, etc. So, I have Developed many webpages for the BIC from the Scratch 
+
+which is totally dynamic even a single module in the whole page is not static. We are using Angular 7, HTML, CSS, 
+
+Bootstrap, etc. for the UI prospective and using Java services to fetch data with the oracle Database. And these 
+
+webpages are directly call from the oracle ERP systems only. 
+
+ 
+
+ 
+
+ 
+
+Responsibilities: 
+
+• 
+
+Gathered the requirements of the project through various meetings. 
+
+• 
+
+Developed many webpages from the scratch. 
+
+• 
+
+Handle dynamic data from the service even a single module in the webpage in not static all data will be 
+
+dynamic. 
+
+• 
+
+Display default data on the input boxes, Radio buttons, Dropdowns, etc. which is fetched from the database 
+
+when user come first on the page there will be no data but as soon as he selects the data and submit and 
+
+after some days, they visit again it display all the selected data by default on the webpage. 
+
+• 
+
+Handle many inside level of data like on click or on changes there will be a new level inside it and again on 
+
+selection of that level there will be a new level inside it this process will goes again and again till data end and 
+
+in each level, data will be dynamic that will create automatic inputs. 
+
+• 
+
+Handle error and validations like there will be many levels inside that so if user selects the same option in any 
+
+level which is already selected so there will be an error popup occur. 
+
+• 
+
+Handle the many types of calculation in the webpages. 
+
+• 
+
+User can give us suggestions as well for the products design as they want. 
+
+• 
+
+Handle 5000 plus data in the dropdowns so there will be no lack or performance issue in the website for that 
+
+implemented Lazy loading on the dropdowns. 
+
+• 
+
+Handle after submission of the page’s user is not able to select any options.  
+
+• 
+
+Other validations like as I mentioned above there will be many levels inside levels so if one level is 
+
+selected nested level will be displayed any if user didn’t select that and try to submit the page then 
+
+validation occurs need to select 
+
+nested level or deselect the above one. 
+
+• 
+
+Handle the levels on the page if there will be no data in a parent level and in the child level there will be a 
+
+data present then parent level is not visible, but the child level will be display. 
+
+➔ Project Title: IM-GIT 
+
+Client Worked/ Business: General Electrical / 
+
+Corporate Role: Automation Process Management 
+
+Engineer Project Duration: April 2019 – March 2020 
+
+Project Description: Project is the engagement of the Capgemini higher Authorities like director levels or senior 
+
+manager levels. IM-GIT is a repository for the Capgemini, like Git hub is a repository to store the details about the 
+
+codes & technologies same as IM-GIT is all about to store all types of presentations, documents, excel sheets, charts. 
+
+Where you will get the document as per need. I developed this project from the scratch in which UI is on Angular 6, 
+
+and services are on Node JS, we are using Java services to integrate with the SharePoint and PostGres SQL is used as 
+
+a Database. 
+
+ 
+
+Responsibilities: 
+
+• 
+
+Gathered the requirements of the project through various meetings. 
+
+• 
+
+Automating the process of downloading and uploading the docs and presentations. 
+
+• 
+
+Email triggering process for getting the signup approval for the IM-GIT Application. 
+
+• 
+
+Handle different permissions like Admin portal, Manager portal, Director’s portal, etc. 
+
+• 
+
+All documents are uploaded in the SharePoint and fetched from the SharePoint as well. 
+
+• 
+
+Handle the search filter as per the technology the user will search and will get only that searched documents, 
+
+like – user search for JAVA so they will get the documents which is related to JAVA. 
+
+• 
+
+Uploading process as per the related keywords. 
+
+• 
+
+User can build or give our proposal for the presentations they required. 
+
+• 
+
+After the searched presentations they can add these presentations to the cart and review our cart they can 
+
+add or remove the selected presentations and download the presentations. 
+
+• 
+
+If user required multiple presentations to be merged and download as a single document this feature is also 
+
+available in the IM-GIT. 
+
+ 
+
+➔ Project Title: Licensee Tracking System 
+
+Client Worked/ Business: General Electrical / Corporate, Digital 
+
+ 
+
+ 
+
+Role: PHP/Sencha (ExtJS) Developer 
+
+ 
+
+Project Duration: October 2018 – Dec 2021 
+
+Project Description: The application is designed to provide a tool to manage the agreements that GE has with other 
+
+companies and give the ability to track the payments and revenue produced by these agreements. 
+
+ 
+
+ 
+
+Responsibilities: 
+
+• 
+
+Gathered the requirements of the project through various meetings. 
+
+• 
+
+Understanding the Flow and implementing it. 
+
+• 
+
+Creating Agreements, Cash Payments, Invoices matched all the amounts and send these transactions to the 
+
+different projects. 
+
+• 
+
+Handle integration with the IBS and CCL. 
+
+• 
+
+Handle many automation processes with the help of php scripts. 
+
+• 
+
+Automating process of triggering lots of emails daily or weekly on the specific time. 
+
+• 
+
+Automation process of sending / receiving the transaction files on the IBS and CCL Projects. 
+
+• 
+
+Configuring the monitoring tools like New Relic, Salesforce Rally, etc. 
+
+• 
+
+Taking care of the 3 environments i.e., Dev, Stage, Prod. 
+
+• 
+
+Adding the logs of the servers, web applications, load balancers etc. 
+
+ 
+
+ 
+
+REWARD & RECOGNITIONS 
+
+ 
+
+➢ Appreciation mails from clients for completing target in time. 
+
+➢ Appreciation and award from Business Unit for complete working from other projects as well during the tagged 
+
+project. 
+
+➢ Got Prize and Appreciations for cost saving to Innovate Chat Bot In the projects. 
+
+➢ Pursuing Azure Microsoft Certification. 
+
+➢ Completed many trainings and certificate of MongoDB from the MongoDB University. 
+
+➢ Star of the Week Award 
+
+➢ Got many Appreciations for hosting many events in the Capgemini and on floor events as well. 
+
+➢ Got Trained in Flipkart. 
+
+➢ Extra mile Award 
+
+➢ Automation Foundation Python Certified 
+
+➢ Ui Path Certified 
+
+➢ Engineer Practitioner Certified 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EDUCATION & QUALIFICATION 
+
+ 
+
+✓ BCA in Computer Science – GLA University, Mathura (UP) 
+
+ 
+
+✓ 
+
+(12th) Science stream. CBSE (Summit Rahul Goel memorial sr. sec School). 
+
+ 
+
+✓ 
+
+(10th) CBSE (Summit Rahul Goel memorial sr. sec School). 
+

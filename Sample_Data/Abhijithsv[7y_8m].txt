@@ -1,0 +1,164 @@
+ABHIJITH S V 
+
+Full Stack Javascript developer 
+
+Mobile : 7204523916 
+
+E-mail : abhi.abhijith123@gmail.com 
+
+7+ years of experience as a MEAN/MERN stack developer 
+
+ 
+
+Skills  
+
+Angular 
+
+Nodejs 
+
+HTML,CSS 
+
+Javascript ,TypeScript 
+
+React 
+
+MongoDB 
+
+Express 
+
+AWS(LAMDA,S3,EC2) 
+
+ 
+
+Work Experience 
+
+ 
+
+Sopra Steria - Senior Software Engineer    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+          Aug 2019 - Present 
+
+Project Name : Core ELEC 
+
+CoreElec is a airbus project to help engineers to install electrical harness in single aisle passenger aeroplane 
+
+Responsibilities: 
+
+o Development of UI components using Angular 10 
+
+o Communicating with Business analyst and getting the requirements 
+
+o Creating REST api with express and nodeJs with mongoDb as database 
+
+o Code review and support 
+
+ 
+
+Ifocus Systec - Software Engineer               
+
+ 
+
+ 
+
+                        Oct 2017 - Aug 2019 
+
+Project Name : CP Manager 
+
+CP Manager enables utility supervisors to conduct inspections, while contractor crew leaders can view work 
+
+instructions and submit their own walkthrough inspections. With our utility inspection app deficiencies may be 
+
+flagged, automatically triggering notifications, and work stoppage may be ordered if serious deficiencies are found. 
+
+Operator Qualifications (OQ) may be checked via QR codes on the technician’s badge. 
+
+Responsibilities: 
+
+o Development of UI components using angular and React 
+
+o Creating responsive pages using html,css,bootstrap and media queries 
+
+o Creating REST api with express and nodeJs with mongoDb as database 
+
+o Supporting the application on production deployments. 
+
+o Worked on AWS LAMDA function,S3 bucket and google firebase 
+
+ 
+
+MissionSoftwareThiland - Software Engineer             
+
+ 
+
+ 
+
+ 
+
+ 
+
+      
+
+  Jul 2016 - April 2017 
+
+Project Name : E-App  
+
+E-App is a billing and accounting desktop application for retail shops and other Business Model,used for keeping track 
+
+of inventory and goods, creating Tax invoice for customer, purchase,sales and other details 
+
+Responsibilities: 
+
+o Development of UI Components using HTML,CSS,AngularJs 
+
+o Validate the request coming from the UI 
+
+o Creating REST api with express and nodeJs with PostgreSQL 
+
+o Complete build and deployment of the project in heroku 
+
+ 
+
+TUV Rheinland- Trainee Engineer              
+
+ 
+
+ 
+
+ 
+
+ 
+
+         
+
+     Sep 2015 - Mar 2016 
+
+o Development of UI Components using HTML,CSS,Bootstrap and REST api with express and nodeJs 
+
+  
+
+Education 
+
+ 
+
+B.E in electronics & communication from PES Institute of technology and management in 2011 - 2015 
+
+P.U.C from Sri Aurobindo PU College in 2009 - 2011 
+
+S.S.L.C from vikasa vidya samathi in 2009 
+

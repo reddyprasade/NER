@@ -1,0 +1,170 @@
+Adarsh pandya
+
+MERN Developer
+
+pandya01adarsh@gmail.com
+
+ 
+
++91 9589253913
+
+ 
+
+Linkedln
+
+ 
+
+Github
+
+ 
+
+PROFILE
+
+Versatile MERN Developer with over 3 years of experience in developing and implementing scalable, high-
+
+quality, clean, and reusable code by enforcing best practices around software engineering architecture and
+
+processes
+
+SKILLS
+
+Technical Skills
+
+HTML, CSS, Javascript, React.js, React Hooks, 
+
+Redux, TypeScript, React Native, Unit Testing,  
+
+Node.js / MongoDB.
+
+Tools and Softwares
+
+Git, Vs Code, NPM, Babel, Webpack,
+
+RESTful APIs
+
+PROFESSIONAL EXPERIENCE
+
+Green Apex Solutions Limited
+
+Designation Software Engineer
+
+03/2021 – present
+
+Key Projects
+
+Yup.gg
+
+Yup.gg offers a dynamic platform where influencers can engage with their audience and conduct promotional 
+
+activities for brands, which in turn can run advertising campaigns. The site integrates with major social media 
+
+platforms including Instagram, Facebook, Twitch, and Twitter, catering to influencers, gamers, and brands.
+
+Technical Contributions:
+
+•State Management: Employed Redux for efficient state handling across the application, ensuring consistent 
+
+and predictable state updates.
+
+•Asynchronous Operations: Implemented Redux Thunk middleware to manage asynchronous operations, 
+
+enabling smoother user interactions and data updates.
+
+•Performance Optimization: Utilized lazy loading techniques to enhance application performance, reducing 
+
+initial load time and improving user experience.
+
+•Internationalization: Integrated i18next, a robust internationalization framework, to support multi-
+
+language content rendering. This adaptation significantly broadened market reach and user engagement 
+
+across different countries.
+
+Ti1finalleap
+
+ti1finalleap is a CRM-based platform offering property management services. Users can transact properties, 
+
+manage vehicle registrations, and oversee community activities.
+
+Technical Contributions:
+
+•Front-end: Developed using React.js, TypeScript, and Material UI for intuitive and responsive design.
+
+•State Management: Leveraged Redux to maintain a clean and organized application state.
+
+•Routing: Implemented React Router for seamless page navigation.
+
+•Form Handling: Built authentication and data entry forms using Formik and Yup for validation.
+
+•API Integration: Connected with RESTful APIs to fetch and update user information.
+
+•Role-Based Access Control: Implemented to tailor functionalities based on user roles, enhancing security 
+
+and user experience.
+
+•Back-end Development: Built RESTful APIs using Node.js and Express to handle server-side operations, 
+
+ensuring seamless data flow between the front-end and back-end.
+
+CERTIFICATION OF APPRECIATION
+
+•Recognized with a Certification of Appreciation from Green Apex for achieving client comfort and 
+
+satisfaction
+
+•Certificate Link 
+
+INTERNSHIP
+
+Newton School | Newton School Coding Boot Camp
+
+08/2020 – 02/2021
+
+•Full Stack Web Development and Problem-Solving.
+
+•I Participated in various Coding contests organized by the platform.
+
+•Worked on games Like Tic-Tac-Toe and Golf.
+
+•Technical Stack Learned: HTML,  CSS, JavaScript,  React.js, Node.js, Express, Java & Data Structure 
+
+Algorithm.
+
+PROJECTS
+
+To-Do Application, Tech Stack: React JS, MongoDB, NodeJS.
+
+•Todo list web application, where users can keep track of their daily tasks.
+
+•Features: Add task, Delete Task, View Task, User LogIn-LogOut.
+
+ Human Verification, Tech Stack: HTML, CSS, JavaScript
+
+•This project is for human Verification. Six images are used out of which one image 
+
+     will be repeated and asked to select the same images.
+
+•Features: On every load, the position of images and the repeating image will change too.
+
+EXTRACURRICULAR ACTIVITIES
+
+•A core member of the College’s Social club.
+
+•Social worker and was awarded a certificate of appreciation By Our Honorable 
+
+     Mr. BalaBachan(State Home Minister).
+
+•I Participated in Traffic Awareness activities organized by Indore Traffic Police.
+
+•Have organized several fundraising events like Gulzar, and Khamakha.
+
+•We have organized blood donation camps in the years 2016 &2017.
+
+EDUCATION
+
+B.E. - Computer Science,  Chameli Devi Group Of Institutions
+
+2016 – 2020
+
+•7.2 CGPA
+

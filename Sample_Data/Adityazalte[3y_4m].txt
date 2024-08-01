@@ -1,0 +1,256 @@
+C 07/2016 - 10/2020
+
+ / 
+
+C 03/2021 - Ongoing
+
++
+
+-
+
+-
+
+-
+
+C 01/2020
+
++
+
+-
+
+C 06/2021 - 12/2022
+
++
+
+-
+
+-
+
+C 03/2021 - 06/2021
+
++
+
+-
+
+-
+
+C 06/2019 - 05/2020
+
+-
+
+-
+
+t
+
+t
+
+
+
+
+
+
+
+Powered by 
+
+SUMMARY
+
+Senior Full Stack Developer in Infosys. Knowledgeable full stack developer, 
+
+more interested in web development, actively looking for opportunity for Java-
+
+SpringBoot Developer.Having extensive experience working in Java, I would 
+
+jump at any opportunity to continue growing my skillset in the Full Stack 
+
+Developer field.
+
+EDUCATION
+
+B.E. in Computer Science
+
+Savitribai Phule Pune University
+
+GPA
+
+7.22
+
+10
+
+EXPERIENCE
+
+Infosys Ltd.
+
+Pune, India
+
+responsible for building, deploying, testing and maintaining web applications.
+
+Also supported to the other team and completed the work before deadline.
+
+Nigade Software Technologies (opc) Private Limited
+
+Pune,India
+
+High performing Operations & Client Service professional.having 1.2 plus years of experience 
+
+across areas including Operations , Stakeholder , Process , Stakeholder and Customer Service 
+
+PROJECTS
+
+Edealer Application
+
+Pune, India
+
+Edealer application based on java-springboot,Junit, Mockito technologies.
+
+Automate price sourcing from pre-identified vendors.
+
+Automate the process, eliminate manual operations risks.
+
+InfyMansion
+
+Pune, India
+
+Property buy and sell through which user can access information.
+
+Developed web application using HTML, CSS, Bootstrap JavaScript, AJAX, DOM, Mongo-DB, 
+
+Node-Js, Express-Js and Angular-Js.
+
+This project is useful system for the companies who develop apartments, hostels, villa 
+
+residential properties.
+
+Video Surveillance System
+
+System for detecting suspicious activities in public areas.
+
+Intelligent Video Surveillance. System will alarm when the observed activities of particular 
+
+surveillance area matches any of the predefined.
+
+suspicious behavior programmed in the system.
+
+SKILLS
+
+Client-Side
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+TypeScript
+
+ReactJS
+
+Bootstrap
+
+Adobe Photoshop
+
+Server-side
+
+NodeJS
+
+ExpressJS
+
+MySQL
+
+AWS
+
+MongoDB
+
+Java
+
+Linux
+
+Spring
+
+Spring-Boot
+
+Development & Operations
+
+Junit
+
+Scrum
+
+Agile
+
+GIT
+
+ DevOps
+
+Burp Suit
+
+Mockito
+
+Jenkins
+
+Microsoft-Office
+
+Cyber-security
+
+Tectia
+
+Team-City
+
+Autosys
+
+STRENGTHS
+
+Team Leadership
+
+Communication
+
+ACHIEVEMENTS
+
+Vice President of 
+
+Technical Team
+
+Organized ,Managed event with 
+
+200 members
+
+Cybersecuity
+
+Zoom Technologies Hyderabad 
+
+Redhat Training
+
+MBPS Infotech Pune
+
+www.enhancv.com
+
+#
+
+_
+
+
+
++
+
+ADITYA  ZALTE
+
+9561317738
+
+adityazalte12345@gmail.com
+
+https://www.linkedin.com/in/aditya-zalte1998
+
+Pune, India
+
+Computer Science Graduate with 3.4 years of experience. Currently working as a
+
+Technologies like java, spring, spring-Boot, microservices,AWS.
+
+Management. also developed application using nodejs, expresssjs technology.
+
+Java Full Stack Developer
+
+Java Analyst Trainee
+
+Full Stack Developer
+
